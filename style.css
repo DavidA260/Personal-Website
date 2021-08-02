@@ -1,0 +1,103 @@
+
+body{
+    font-family: sans-serif;
+    background-color: black;
+}
+
+div{
+    font-family: sans-serif ;
+    background-color: #1D3557;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
+
+
+.background{
+    background-color:  #011216 ;
+}
+img{
+    width: 200px;
+
+}
+#big_div{
+    display:flex;
+    justify-content: space-around;
+    cursor:text;
+}
+
+#me{
+    width: 200px;
+    padding-right: 100px;
+}
+
+img{
+    width: 300px;
+    border-radius: 20px;
+}
+
+#icon{
+    size: 25px;
+    color: darkcyan;
+    font-weight: bold;
+}
+
+.items:hover{
+    background-color: gray;
+    opacity: .5;
+    cursor: pointer;
+}
+.title{
+text-align: center;
+color: rgb(190, 190, 190);
+}
+
+.Desc{
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+#gameplay{
+    padding-left: 100px;
+}
+
+#bio{
+    padding-top: 100px;
+    padding-left: 30px;
+}
+
+.smalldiv1{
+    display:flex;
+    justify-content: space-between;
+    background-color:  #ffffd0;
+    color:rgb(58, 39, 39);
+    border-radius: 30px;
+    font-weight: bold;
+}
+.smalldiv2{
+    display:flex;
+    justify-content: space-between;
+    background-color:  #6e1d24;
+    color:rgb(170, 167, 120);
+    border-radius: 30px;
+    font-weight: bold;
+}
+.text1{
+    background-color:  #ffffd0;
+    color:rgb(58, 39, 39);
+    border-radius: 30px;
+    font-weight: bold;
+}
+.space{
+    padding-top: 30px;
+}
+
+.text2{
+    background-color:  #6e1d24;
+    color:rgb(170, 167, 120);
+    border-radius: 30px;
+    font-weight: bold;
+}
+#work{
+    width: 200px;
+}
